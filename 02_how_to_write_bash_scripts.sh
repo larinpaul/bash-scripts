@@ -30,3 +30,13 @@ gedit gfg.sh
 chmod +x gfg.sh
 ./gfg.sh
 
+# Now we can also write more complicated commands using Bash Scripts.
+# Here is an example below in which we are using a conditon statement
+
+#!/bin/bash
+Age=17
+if [ "$Age" -ge 18 ]; then
+    echo "You can vote"
+else
+    echo "You cannot vote"
+fi
