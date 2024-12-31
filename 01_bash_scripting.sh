@@ -24,4 +24,21 @@
 # * Decision Making
 # * String and Numeric Comparisons
 
+# ...
+
+# Advantages of Bash Scripts:
+# * It is simple.
+# * It helps to avoid doing repetitive tasks
+# * Easy to use
+# * Frequently performed tasks can be automated
+# * A sequence of commands can be run as a single command.
+
+# Disadvantages of Bash Scripts:
+# * Any mistake while writing can be constly.
+# * A new process launched for almost every shell command executed
+# * Slow execution speed
+# * Compatibility problems between different platforms
+
+
+
 
