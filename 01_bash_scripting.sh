@@ -38,7 +38,3 @@
 # * A new process launched for almost every shell command executed
 # * Slow execution speed
 # * Compatibility problems between different platforms
-
-
-
-
